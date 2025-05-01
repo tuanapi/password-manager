@@ -11,6 +11,6 @@ A robust command-line tool for generating cryptographically secure passwords and
   - Base64 encoding
 - 🧹 Secure memory cleanup
 
-## 📦 Installation
+## 🛠️ Usage
 ```bash
 php passwordManager.php <filename> <length>
